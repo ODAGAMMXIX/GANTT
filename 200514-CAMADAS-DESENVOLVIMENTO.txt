@@ -1,0 +1,13 @@
+VISUAL
+|
+|
+|
+CONTROLER
+|
+|
+|
+MODEL
+|
+|
+|
+DATABASE
