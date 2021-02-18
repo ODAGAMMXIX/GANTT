@@ -13,7 +13,6 @@
 
 * Caroline Paz de Sousa RA: 1460281923049
 * Denise de Oliveira Silva RA: 1460281923007
-* Fabio Odaguiri RA: 1460281923008
 * Wilson Amore Vieira Filho RA: 1460281923041
 	
 
